@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "learn": "chrome https://www.tutorialspoint.com/unix/unix-decision-making.htm"
   },
   "keywords": [],
   "author": "Lucas Vogel <contact@vogelino.com> (http://vogelino.com/)",
